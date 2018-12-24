@@ -1,2 +1,2 @@
-# Signal for iOS
+# RedApp for iOS
 Red.Scorpion.me@gmail.com
